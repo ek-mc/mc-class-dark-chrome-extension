@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "MC-Class Dark Theme",
+  "version": "0.1.1",
+  "description": "Applies a dark theme to mc-class.gr",
+  "content_scripts": [
+    {
+      "matches": [
+        "*://mc-class.gr/*",
+        "*://*.mc-class.gr/*"
+      ],
+      "css": ["dark.css"],
+      "js": ["content.js"],
+      "run_at": "document_start"
+    }
+  ]
+}
