@@ -1,5 +1,12 @@
 # Changelog
 
+## [Unreleased]
+
+### Added
+- Documented GitHub Actions workflows in README.
+
+# Changelog
+
 ## [0.1.4] - 2026-03-03
 - Synced store package with latest dark theme behavior and placeholder SVG logic.
 - Added Chrome Web Store assets and metadata files (`assets/icons/*`, `PRIVACY.md`, `STORE-LISTING.md`).
