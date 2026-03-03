@@ -19,4 +19,4 @@ Chrome extension version of the mc-class.gr dark theme.
 - `content.js`
 
 ## Version
-- 0.1.1
+- 0.1.4
