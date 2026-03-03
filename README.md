@@ -2,6 +2,8 @@
 
 Chrome extension version of the mc-class.gr dark theme.
 
+![MC-Class Dark Theme preview](assets/screenshots/preview.jpg)
+
 ## Install locally
 1. Open `chrome://extensions`
 2. Enable **Developer mode**
