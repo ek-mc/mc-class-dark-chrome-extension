@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.1.4] - 2026-03-03
+- Synced store package with latest dark theme behavior and placeholder SVG logic.
+- Added Chrome Web Store assets and metadata files (`assets/icons/*`, `PRIVACY.md`, `STORE-LISTING.md`).
+- Built updated store upload archive in `dist/`.
+- Bumped extension version to `0.1.4`.
+
 ## [0.1.3] - 2026-03-03
 - Added `LICENSE` file with MIT license.
 - Bumped extension version to `0.1.3`.
