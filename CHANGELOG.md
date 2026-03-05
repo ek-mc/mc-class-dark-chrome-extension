@@ -1,11 +1,15 @@
 # Changelog
 
+## [Unreleased]
+
 ## [0.1.5] - 2026-03-04
 
 ### Added
 - Documented GitHub Actions workflows in README.
 
 # Changelog
+
+## [Unreleased]
 
 ## [0.1.4] - 2026-03-03
 - Synced store package with latest dark theme behavior and placeholder SVG logic.
