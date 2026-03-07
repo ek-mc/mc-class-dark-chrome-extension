@@ -25,7 +25,7 @@ Chrome Web Store:
 - `content.js`
 
 ## Version
-- 0.1.4
+- 0.1.5
 
 ## License
 
