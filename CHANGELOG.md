@@ -1,5 +1,10 @@
 ## [Unreleased]
 
+## [0.1.7] - 2026-03-15
+### Fixed
+- Fixed manifest version placeholder issue; set explicit extension version to 0.1.7.
+
+## [0.1.6] - 2026-03-15
 ### Fixed
 - Improved notification detail readability by overriding hardcoded low-contrast gray (`#515050`) text in dark mode.
 - Added targeted readability override for `ViewNotificationDescr` and nested notification content.
