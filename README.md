@@ -26,9 +26,6 @@ Chrome Web Store:
 - `dark.css`
 - `content.js`
 
-## Version
-- 0.1.5
-
 ## License
 
 See [LICENSE](LICENSE).
