@@ -1,6 +1,5 @@
 # MC-Class Dark Theme (Chrome Extension)
 
-Status: Active | Last release: v0.1.5 | Last update: 2026-03-07 | Live: https://chromewebstore.google.com/detail/mc-class-dark-theme/laembkhianpaagagkjjhdhkjmpbhpijb
 
 
 Chrome extension version of the mc-class.gr dark theme.
