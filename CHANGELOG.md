@@ -1,4 +1,12 @@
-## [Unreleased]
+# Changelog
+
+## [0.1.9] - 2026-03-21
+
+### Changed
+- Completed lesson icons are now outline-only (no filled background) for:
+  - `.UnitAssets .AssetIconCompleted`
+  - `.Completed .LessonBoxFooterIconCompleted`
+- Updated completed icon color to `rgb(2, 133, 255)` for icon glyphs.
 
 ## [0.1.8] - 2026-03-15
 
@@ -27,7 +35,6 @@
 
 # Changelog
 
-## [Unreleased]
 
 ## [0.1.4] - 2026-03-03
 - Synced store package with latest dark theme behavior and placeholder SVG logic.
@@ -49,3 +56,4 @@
 - Added component-specific dark style coverage (Lesson/Accordion/Notifications/Absences/etc.).
 - Added `content.js` to patch `NoPhoto.jpg` placeholders with a dark preview image.
 - Updated manifest to inject both CSS and JS at `document_start`.
+
