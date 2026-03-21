@@ -43,5 +43,3 @@ For issues, use [GitHub Issues](https://github.com/ek-mc/mc-class-dark-chrome-ex
 This repository uses GitHub Actions workflows:
 - `ci.yml`
 
-## Release cadence
-See [CHANGELOG.md](CHANGELOG.md) for release history.
