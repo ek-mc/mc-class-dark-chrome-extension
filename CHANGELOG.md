@@ -89,3 +89,7 @@
 - Added `content.js` to patch `NoPhoto.jpg` placeholders with a dark preview image.
 - Updated manifest to inject both CSS and JS at `document_start`.
 
+## 2026-04-29
+
+- Added basic GitHub Actions CI workflow (`.github/workflows/basic-ci.yml`).
+- Maintenance: closed stale dependency PR queue for cleaner triage (where applicable).
