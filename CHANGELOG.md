@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.18] - 2026-05-07
+
+### Changed
+- Updated in-progress visual style for better dark-mode consistency:
+  - `.InProgress` background set to `#55607A` (replacing bright red tone).
+  - `.LessonBoxFooterIconInProgress i` color set to `#55607A`.
+
 ## [0.1.17] - 2026-05-07
 
 ### Changed
