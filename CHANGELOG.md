@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.1.24] - 2026-05-08
+
+### Added
+- Persisted lesson view preference (grid/list) on homepage interactions.
+- First-time default is list view; manual user selection is remembered for future visits.
+
+### Changed
+- Updated homepage view handling logic to respect stored user preference instead of forcing list every load.
+
 ## [0.1.23] - 2026-05-08
 
 ### Changed
