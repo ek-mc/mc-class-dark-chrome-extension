@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.1.16] - 2026-05-07
+
+### Changed
+- Updated Help Desk toggle background for better visual integration in dark mode:
+  - `.help_desk_toggle` now uses `var(--mc-panel)` instead of `var(--mc-bg)`.
+
 ## [0.1.15] - 2026-05-07
 
 ### Fixed
