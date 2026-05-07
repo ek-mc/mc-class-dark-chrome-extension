@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.1.27] - 2026-05-08
+
+### Changed
+- Updated heading and notification readability in dark mode:
+  - `h3` now uses `var(--mc-text)`.
+  - `.ViewNotificationTitle h3` now uses `var(--mc-text)`.
+  - `.ViewNotificationAvatar` background now uses `var(--mc-bg)`.
+
 ## [0.1.26] - 2026-05-08
 
 ### Fixed
