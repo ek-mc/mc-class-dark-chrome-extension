@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.32] - 2026-05-09
+
+### Changed
+- Updated minimizer controls to follow panel tone:
+  - `.sidebar-minimizer` now uses `var(--mc-panel)`.
+  - `.brand-minimizer` now uses `var(--mc-panel)`.
+
 ## [0.1.31] - 2026-05-09
 
 ### Fixed
