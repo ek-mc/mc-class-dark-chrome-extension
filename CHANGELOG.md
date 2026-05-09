@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.35] - 2026-05-09
+
+### Changed
+- Navigation/dropdown alignment polish:
+  - Set `.nav-link` and `.nav-link a` color to `#9198A9`.
+  - Centered dropdown Font Awesome icons in a fixed slot for cleaner spacing.
+
 ## [0.1.34] - 2026-05-09
 
 ### Changed
