@@ -1,6 +1,6 @@
 # MC-Class Dark Theme (Chrome Extension)
 
-![Version](https://img.shields.io/badge/version-0.1.45-2563eb)
+![Version](https://img.shields.io/badge/version-0.1.46-2563eb)
 ![Platform](https://img.shields.io/badge/platform-Chrome-1f2937)
 
 Chrome extension version of the `mc-class.gr` dark theme.
